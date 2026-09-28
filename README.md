@@ -1,46 +1,54 @@
-<div align="center">
-
-<!-- Tên lớn & Hiệu ứng gõ chữ (tùy chọn, dùng ảnh động) -->
-# 🚀 NGUYEN HOANG VUONG
-### **Full Stack Software Engineer | Mobile Developer | Automation Specialist**
-
-<!-- Các nút liên hệ xịn sò -->
 <p align="center">
-  <a href="mailto:hoanvuonq.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/truong-duy-1122001/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Nguyen%20Hoang%20Vuong&fontSize=52&animation=twinkling&fontAlignY=38" width="100%" alt="Header" />
+</p>
+
+<h3 align="center">
+  <samp>
+    &gt; Hey There! I'm <b><a href="https://github.com/Hoanvuonq">Hoang Vuong (Yuno)</a></b> 👋
+  </samp>
+</h3>
+
+<p align="center">
   <a href="https://github.com/Hoanvuonq">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Mobile+App+Engineer+(React+Native);Automation+Tools+%26+Bots+Builder;NodeJS+%26+Cloud+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Dòng giới thiệu ngắn gọn, súc tích -->
-<samp>
-  Third-year Student @ Nguyen Tat Thanh University 🐘 <br>
-  Passionate about creating elegant solutions for complex problems.
-</samp>
+<p align="center">
+  <a href="mailto:hoanvuonq.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Hoanvuonq">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/Hoanvuonq">
+    <img src="https://komarev.com/ghpvc/?username=Hoanvuonq&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Hoanvuonq">
+    <img src="https://img.shields.io/github/followers/Hoanvuonq?style=flat-square&logo=github&logoColor=white&color=58a6ff" alt="Followers" />
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" alt="Divider" />
+</p>
 
-## 👨‍💻 About Me
+## 🎯 About Me
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Who I Am</h3>
-      My name is **Nguyen Hoang Vuong**, or you can call me **Yuno**. I'm currently a dedicated third-year computer science student from Vietnam. My unwavering goal is to become a software engineer, specializing in building high-performance applications that make a difference.
-    </td>
-    <td width="50%" valign="top">
-      <h3>What Drives Me</h3>
-      ```typescript
-      class Hoanvuonq extends Developer {
-        school = "Nguyen Tat NTT 🐘";
-        pronouns = ["Vương", "Yuno"];
-        hobbies = [
-          "Code 💻", "Music 🎵", "Foofball ⚽"
-        ];
-        motto = "Enjoy the moment, master the code.";
-      }
+```typescript
+const engineer = {
+  name: "Nguyen Hoang Vuong",
+  alias: "Yuno",
+  location: "Ho Chi Minh City, Vietnam 🇻🇳",
+  roles: ["Full-Stack Web Developer", "Mobile Engineer", "Automation Specialist"],
+  stack: {
+    frontend: ["ReactJS", "Vue.js", "Next.js", "TailwindCSS"],
+    mobile: ["React Native"],
+    backend: ["Node.js", "Express.js", "RESTful APIs"],
+    databaseAndCloud: ["MongoDB", "Redis", "Docker", "CI/CD Workflows"]
+  },
+  motto: "Think → Architect → Code → Automate → Ship 🚀"
+};
