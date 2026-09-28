@@ -136,20 +136,4 @@ const developer = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoanvuonq&layout=compact&theme=github_dark&hide_border=true" width="49%" alt="Top Languages" />
 
 </p>
-👁️ Profile Views
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Hoanvuonq&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
-    height="180"
-    alt="GitHub Stats"
-  />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoanvuonq&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-⚡ Code → Build → Automate → Deploy → Repeat 🔄
-</div> ```
