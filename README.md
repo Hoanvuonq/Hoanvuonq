@@ -1,64 +1,46 @@
-# Hi, I’m Hoanvuonq!   ![ava](https://user-images.githubusercontent.com/104070703/221396082-43375006-42c6-4650-8f16-db248e1f5d67.png)
+<div align="center">
 
-<a href="https://www.linkedin.com/in/truong-duy-1122001/"> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a>  
+<!-- Tên lớn & Hiệu ứng gõ chữ (tùy chọn, dùng ảnh động) -->
+# 🚀 NGUYEN HOANG VUONG
+### **Full Stack Software Engineer | Mobile Developer | Automation Specialist**
 
-👨 My name is Nguyen Hoang Vuong and I am a third year student studying at Nguyen Tat Thanh University, I am from Vietnam and my goal is to become a software engineer.
+<!-- Các nút liên hệ xịn sò -->
+<p align="center">
+  <a href="mailto:hoanvuonq.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/truong-duy-1122001/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Hoanvuonq">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-## ✏️ My Blog
+<!-- Dòng giới thiệu ngắn gọn, súc tích -->
+<samp>
+  Third-year Student @ Nguyen Tat Thanh University 🐘 <br>
+  Passionate about creating elegant solutions for complex problems.
+</samp>
 
-...
-```typescript
-class Hoanvuonq  {
-  class: number; school: string; pronouns:string[]; hobbies: string[]; 
-  constructor() {
-    this.class = 2023;
-    this.school =  "NTT 🐘";
-    this.pronouns =  ["Nguyễn Hoàng Vương || Yuno"];
-    this.hobbies = ["enjoy the moment", "programming", "music", "game", "foofball"]
-  }
-}
-```
-```typescript
-class Skills extends Hoanvuonq {
-  languages: string[]; frameworks: string[]; frontend: string[]; backend: string[]; other: string[]
-  constructor() {
-    super();
-    this.languages = ["Javascript",  "SQL", "Python", ];
-    this.frameworks = ["Next.js", "React.js"];
-    this.frontend = ["React", "HTML/CSS", "Redux", "Storybook"];
-    this.other = ["Git/Github", "npm", "Figma"]
-  }
-}
-```
+---
 
-## 📈 Github Stats
+## 👨‍💻 About Me
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhduy1202&theme=tokyonight">
-
-
-
-##  ✨ Giới thiệu dự án
-* [ Scrappy C ](https://github.com/anhduy1202/Scrappy-C) - Ứng dụng CLI Web Scraper trong C
-* [ Collatz-Conjecture ](https://github.com/anhduy1202/Collatz-Conjecture) - Collatz Conjecture với hàng đợi tin nhắn POSIX, thread trong C
-* [ Reddat ](https://github.com/anhduy1202/Not-Reddit) - Bản sao Reddit
-* [ Hệ thống đề xuất Spotify ](https://github.com/anhduy1202/Spotify-Recommendation-Systems) - Hệ thống đề xuất Spotify Playlist với K-Means & lọc dựa trên nội dung
-
-* [ Gameboy Simulator ](https://github.com/anhduy1202/gameboySimulator) - Ứng dụng Desktop giả lập phong cách hình ảnh Gameboy retro với PyQT5, OpenCV
-* [ Phát hiện đường viền con sóc ](https://github.com/anhduy1202/SquirrelContourDetection) - Phát hiện đường viền bằng Thị giác máy tính
-* [ Demon Slayer API ](https://github.com/anhduy1202/demon-slayer-api) - Web-scraped API cho Demon Slayer Anime
-* [ TuffyFood ](https://github.com/anhduy1202/TuffyFood) - Ứng dụng đánh giá thực phẩm trong khuôn viên trường iOS dành cho sinh viên CSUF sử dụng Swift
-* [ Wordiee ](https://github.com/anhduy1202/wordiee) - Wordle Clone với React, TypeScript, Redux
-* [ Git-Readme ](https://github.com/anhduy1202/Git-Readme) - Trang web giúp Github Readme của bạn mát hơn
-* [ Better Tic-tac-toe ](https://github.com/anhduy1202/better-tic-tac-toe-client) - Trò chơi web Tic-Tac-Toe nhiều người chơi
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhduy1202&theme=tokyonight&layout=compact&langs_count=6">
-
-
-<details><summary>Ngắm sao</summary>
-
-[ Reddat ](https://github.com/anhduy1202/Not-Reddit) 29⭐️
-
-</chi tiết>
-
-
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Who I Am</h3>
+      My name is **Nguyen Hoang Vuong**, or you can call me **Yuno**. I'm currently a dedicated third-year computer science student from Vietnam. My unwavering goal is to become a software engineer, specializing in building high-performance applications that make a difference.
+    </td>
+    <td width="50%" valign="top">
+      <h3>What Drives Me</h3>
+      ```typescript
+      class Hoanvuonq extends Developer {
+        school = "Nguyen Tat NTT 🐘";
+        pronouns = ["Vương", "Yuno"];
+        hobbies = [
+          "Code 💻", "Music 🎵", "Foofball ⚽"
+        ];
+        motto = "Enjoy the moment, master the code.";
+      }
