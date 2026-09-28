@@ -138,13 +138,18 @@ const developer = {
 </p>
 👁️ Profile Views
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Hoanvuonq&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-<img src="https://komarev.com/ghpvc/?username=Hoanvuonq&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Profile Views" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoanvuonq&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" alt="Circuit Pulse Divider" />
 
 ⚡ Code → Build → Automate → Deploy → Repeat 🔄
 </div> ```
